@@ -1,7 +1,7 @@
 BI_analyst
 ==============================
 
-Analisis explorio sobre un embudo de ventas de tarjestas de credito
+Analisis explorio sobre un embudo de ventas de tarjestas de credito en el cual tratamos de responder la pregunta de negocio de *Como optimizar el embudo de ventas* mediante este analisis exploratorios vamos a ver por que sucede, donde y como lo podemos optimizar.
 
 Project Organization
 ------------
